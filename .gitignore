@@ -1,0 +1,9 @@
+/doc
+/.idea
+/input/*.s2p
+/input/*.mdif
+/input/*.csv
+/output/*.s2p
+/output/*.csv
+.DS_Store
+*.pyc
